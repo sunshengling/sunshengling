@@ -13,54 +13,64 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-### This is sunshengling!
+  -->
+
+
+
+ <div align="center">
+    <a>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);sun同学祝您今天愉快!&center=true&size=27" alt="Typing SVG" />
+    </a>
+  </div>
+
+
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/wsyyyyyyyy)
 [![Blog](https://img.shields.io/badge/my_blog-blue)](https://www.wsyssl.top/)
 
 🔭Welcome to my GitHub page. 👯System.out.println("Study diligently and strive for improvement every day")
 
-<img align="right" alt="img" src="https://images7.alphacoders.com/114/thumbbig-1146879.webp" width="50%" height="60%" />
+<!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+</picture>
 
-#### 🌱 我目前正在做的事情：
-- 在武汉读研，钻研唱、跳、rap和篮球
-- 完善自己的项目，做自己喜欢的事！ 🚀 *coming soon*
+</div>
 
-#### :muscle: 我挑战自己的事情：
-- 晚睡以充分利用这一天
-- 每天至少编码30分钟
-- 每周锻炼3天
-- 不断地接受新的知识，来丰富自己的经历
 <p>&emsp;&emsp;大家好，我是小孙同学。</p>
 <p>&emsp;&emsp;热爱编程、看电影、读书、旅行。</p>
 <p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 
+```mermaid
 mindmap
   root((小孙同学))
     编程
       Web开发
-      网络爬虫
-      人工智能
-    摄影
-      风光
+      java
+      c++
+      自动驾驶
     旅行
-      广州
-      苏州
+      武汉
+      长沙
       南京
-      滁州
-      合肥
-      寿县
+      杭州
+      淄博
     阅读
       人物传记
       个人成长
       社会文化
       计算机技术
+```
+
+
 
 #### :computer: 编程语言和工具：
+
 <p>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=sunshengling&show_icons=true&hide_border=true" />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
